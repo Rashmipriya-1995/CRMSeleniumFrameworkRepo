@@ -34,6 +34,8 @@ public class GetProductInfoTest {
 		System.out.println(productprice);
 		
 		driver.quit();
+				//driver.quit();
+
 		
 	}
 	
